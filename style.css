@@ -4,6 +4,7 @@ html {
 
 body {
   height: 100%;
+  background-image: linear-gradient(150deg, #b23aa2 0%, #1551c0 100%); 
   background-color: #0f0d21;
   background-position: center;
   background-attachment: fixed;
