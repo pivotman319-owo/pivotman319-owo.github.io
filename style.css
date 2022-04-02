@@ -15,6 +15,11 @@ body {
   font-family: "Segoe UI Variable", "Segoe UI", "Verdana", "Tahoma", "Helvetica", "Arial";
 }
 
+a {
+  color: hotpink;
+  
+}
+
 .bread {
   background-color: rgb(193, 71, 13);
   border-color: rgb(244, 146, 0);
@@ -30,7 +35,6 @@ body {
 
 .header {
   display: flex;
-  justify-self: center;
   align-self: center;
   height: 100%;
 }
