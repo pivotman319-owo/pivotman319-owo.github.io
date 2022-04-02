@@ -29,12 +29,6 @@ body {
 }
 
 .header {
-  position: absolute;
-  justify-self: center;
-  align-self: center;
-}
-
-.center {
   display: flex;
   justify-content: center;
   align-items: center;
