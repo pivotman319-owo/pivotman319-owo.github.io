@@ -35,6 +35,5 @@ a {
 
 .header {
   display: flex;
-  align-self: center;
   height: 100%;
 }
