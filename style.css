@@ -8,11 +8,11 @@ body {
   background-color: #0f0d21;
   background-position: center;
   background-attachment: fixed;
-  background-size: contain;
+  background-size: cover;
   background-repeat: no-repeat;
   color: white;
   text-align: center;
-  font-family: "Segoe UI Variable", "Segoe UI", "Tahoma", "Verdana", "Arial";
+  font-family: "Segoe UI Variable", "Segoe UI", "Verdana", "Tahoma", "Helvetica", "Arial";
 }
 
 .bread {
