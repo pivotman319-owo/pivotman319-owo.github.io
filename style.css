@@ -31,7 +31,6 @@ body {
   position: absolute;
   justify-self: center;
   align-self: center;
-  transform: translateY(-200%);
 }
 
 .center {
