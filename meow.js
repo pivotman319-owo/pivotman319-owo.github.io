@@ -11,7 +11,7 @@ var keyHandler = function (event) {
   
 	if (pattern.length === current) {
 		current = 0;
-		window.location.replace("https://www.youtube.com/embed/QDaUJufeMXM?autoplay=1");
+		window.location.replace("https://www.youtube.com/embed/4Z8H9avUx8k?autoplay=1");
 	}
 
 };
