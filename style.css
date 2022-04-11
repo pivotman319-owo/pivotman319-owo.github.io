@@ -13,6 +13,7 @@ body {
 
 a {
   color: hotpink;
+  text-decoration: none;
 }
 
 a:hover {
