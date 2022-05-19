@@ -1,29 +1,30 @@
 body {
-  height: 100%;
-  background-image: linear-gradient(150deg, #b23aa2 0%, #1551c0 100%); 
-  background-color: #0f0d21;
-  background-position: center;
-  background-attachment: fixed;
-  background-size: cover;
-  background-repeat: no-repeat;
-  color: white;
-  text-align: center;
-  font-family: "Segoe UI Variable", "Segoe UI", "Verdana", "Tahoma", "Helvetica", "Arial";
+    height: 100%;
+    background-image: linear-gradient(150deg, #b23aa2 0%, #1551c0 100%); 
+    background-color: #0f0d21;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-align: center;
+    font-family: "Segoe UI Variable", "Segoe UI", "Verdana", "Tahoma", "Helvetica", "Arial";
 }
 
 a {
-  color: hotpink;
-  text-decoration: none;
+    color: hotpink;
+    text-decoration: none;
+    transition: all 0.25s;
 }
 
 a:hover {
-  color: pink;
+    color: pink;
 }
 
 .container {
-  width: 100%;
-  height: 100%;
-  margin: 0;
+    width: 100%;
+    height: 100%;
+    margin: 0;
 }
 
 .container .center {
