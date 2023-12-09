@@ -60,6 +60,10 @@ a:hover {
     transform: translate(-50%, -50%);
 }
 
+#roles img {
+    transform: translate(0, 25%)
+}
+
 /* footer containing plenty of buttons and stuff */
 footer {
     position: absolute;
