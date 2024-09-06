@@ -1,0 +1,6 @@
+.container .center .center-blogpost {
+	align-content: center;
+	left: 15%;
+	width: 85%;
+    transform: translate(7.5%, 0%);
+}
