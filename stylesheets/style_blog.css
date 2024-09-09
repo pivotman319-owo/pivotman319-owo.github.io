@@ -1,6 +1,27 @@
-.container .center .center-blogpost {
+.container .center-blogpost {
 	align-content: center;
 	left: 15%;
 	width: 85%;
-    transform: translate(7.5%, 0%);
+    transform: translate(8.8%, 0%);
+	background-color: #00000055;
+}
+
+.blogpost-content, .blogpost-return-to-top {
+	margin: 48px;
+}
+
+.blogpost-image, .blogpost-image-hero {
+	border-radius: 8px;
+	border-width: 4px;
+	border-style: solid;
+	border-color: #df5ad4; 
+}
+
+.blogpost-image-content .blogpost-image-subtitle {
+	font-style: oblique;
+}
+
+.blogpost-return-to-top .blogpost-return-to-top-link {
+	font-weight: bold;
+	font-size: 24px;
 }
