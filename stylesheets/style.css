@@ -1,27 +1,27 @@
 /* segoe ui variable font embed */
 @font-face {
   font-family: Segoe UI Variable;
-  src: url("fonts/SegoeUI-VF.ttf");
+  src: url("/fonts/SegoeUI-VF.ttf");
 }
 
 @font-face {
   font-family: Segoe UI Variable Display;
-  src: url("fonts/SegoeUI-VF.ttf");
+  src: url("/fonts/SegoeUI-VF.ttf");
 }
 
 @font-face {
   font-family: Segoe UI Variable Display Semibold;
-  src: url("fonts/SegoeUI-VF.ttf");
+  src: url("/fonts/SegoeUI-VF.ttf");
 }
 
 @font-face {
   font-family: Segoe UI Variable Text;
-  src: url("fonts/SegoeUI-VF.ttf");
+  src: url("/fonts/SegoeUI-VF.ttf");
 }
 
 @font-face {
   font-family: Segoe UI Variable Text Semibold;
-  src: url("fonts/SegoeUI-VF.ttf");
+  src: url("/fonts/SegoeUI-VF.ttf");
 }
 
 body {
